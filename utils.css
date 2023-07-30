@@ -1,0 +1,39 @@
+.flex {
+    display: flex;
+}
+
+.item-center {
+    align-items: center;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.flex-row {
+    flex-direction: row;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.bg-light {
+    background-color: #88fca391;
+}
+
+.my-1 {
+    margin: 20px 0;
+}
+
+.color-white {
+    color: #1f4468;
+}
